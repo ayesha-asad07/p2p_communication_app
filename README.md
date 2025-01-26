@@ -11,4 +11,4 @@ The *P2P Communication App* is a modern peer-to-peer messaging platform designed
 
 This app is perfect for anyone looking to build a foundational understanding of P2P communication or integrate messaging capabilities into larger projects. This project is open to any contribution.
 
-Thanks
+Thanks!
